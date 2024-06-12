@@ -1,0 +1,1 @@
+This simple form uses the novalidate attribute to turn off the browser's automatic validation; this lets our script take control over validation.
